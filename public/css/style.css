@@ -1,0 +1,19 @@
+.filename_button{
+    background: none;
+    border: none;
+    color: #000;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+
+.back_button{
+    background: none;
+    border: none;
+    color: #000;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+#search{
+    margin-bottom: 1rem;
+    width: 80%;
+}
